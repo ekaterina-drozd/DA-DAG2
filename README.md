@@ -1,6 +1,6 @@
 # DA-DAG2
 
-Стек: python, библиотеки pandas, requests, date time, airflow 
+Стек: python, библиотеки pandas, requests, datetime, airflow 
  
 **Задачи**:
 * Определить год, за который смотрим данные (1994 + hash(f‘{login}') % 23)
